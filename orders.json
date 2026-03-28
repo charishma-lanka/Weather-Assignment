@@ -1,0 +1,26 @@
+[
+  {
+    "order_id": "1001",
+    "customer": "Alice Smith",
+    "city": "New York,US",
+    "status": "On Time"
+  },
+  {
+    "order_id": "1002",
+    "customer": "Bob Jones",
+    "city": "Mumbai,IN",
+    "status": "On Time"
+  },
+  {
+    "order_id": "1003",
+    "customer": "Charlie Green",
+    "city": "London,GB",
+    "status": "On Time"
+  },
+  {
+    "order_id": "1004",
+    "customer": "David Lee",
+    "city": "Toronto,CA",
+    "status": "On Time"
+  }
+]
